@@ -1,11 +1,11 @@
 {
-  "name": "create-mo-admin-cli",
-  "version": "1.0.0",
+  "name": "create-mo-admin",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "create-mo-admin": "./bin/index.js"
+    "create-mo-admin": "index.js"
   },
   "types:":"types/index.d.ts",
   "scripts": {
